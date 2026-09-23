@@ -2,8 +2,10 @@ RENCANA BELAJARA RIJAL
 - HTML
   # Belajar dasar html
   # Belajar membuat tampilan dengan html
+  # Belajar membuat web sederhana
 - CSS
   # Belajar style sederhana
 - JAVA
- ^ vue
+  ^ vue 
 - PHP
+  ^ laravel
