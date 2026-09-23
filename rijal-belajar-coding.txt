@@ -1,5 +1,7 @@
 RENCANA BELAJARA RIJAL
 - HTML
+  # Belajar dasar html
+  # Belajar membuat tampilan dengan html
 - CSS
 - JAVA
 - PHP
